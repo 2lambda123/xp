@@ -3,15 +3,15 @@
 ## Tech Stack
 2lambda123/xp is built on the following main stack:
 
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [CoffeeScript](http://coffeescript.org/) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Stream](https://getstream.io/) – Activity Feeds as a Service
 - [D](http://dlang.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [hub](http://hub.github.com/) – Git Tools
 - [Simple](https://simple-tracker.com) – Time Tracking
+- [Stream](https://getstream.io/) – Activity Feeds as a Service
 - [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
@@ -22,15 +22,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/xp is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg' alt='Stream'/> [Stream](https://getstream.io/) – Activity Feeds as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11894/default_5bb2c0012a8c2666af5081e803e15952f675da0c.png' alt='Simple'/> [Simple](https://simple-tracker.com) – Time Tracking
+- <img width='25' height='25' src='https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg' alt='Stream'/> [Stream](https://getstream.io/) – Activity Feeds as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/xp](https://github.com/2lambda123/xp)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|37<br/>Tools used|01/09/24 <br/>Report generated|
+|37<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
